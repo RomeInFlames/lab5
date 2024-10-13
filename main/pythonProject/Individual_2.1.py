@@ -3,6 +3,7 @@
 
 import sys
 
+
 if __name__ == '__main__':
     a = list(map(int, input().split()))
     A = int(input())
