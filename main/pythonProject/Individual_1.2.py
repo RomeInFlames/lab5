@@ -14,4 +14,5 @@ if __name__ == '__main__':
 
     # Найти искомую сумму.
     s = sum([a for a in A if 2 < a < 20 and a % 8 == 0])
+    
     print(s)
